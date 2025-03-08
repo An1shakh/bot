@@ -1,5 +1,2 @@
-playwright
-flask
+aiogram
 requests
-playwright
-numpy
