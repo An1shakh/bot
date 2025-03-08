@@ -1,6 +1,1 @@
-aiogram
-requests
 playwright
-fake-useragent
-pip install playwright
-playwright install
